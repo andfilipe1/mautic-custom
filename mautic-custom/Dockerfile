@@ -1,4 +1,4 @@
-FROM repo/mautic-base:latest
+FROM andfilipe1/mautic-base:latest
 
 # 2018-03-26
 #
